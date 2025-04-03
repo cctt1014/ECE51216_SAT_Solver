@@ -20,7 +20,7 @@ class SATSolver():
         if not (os.path.isfile(fpath)):
             logging.error("[ERROR] Input CNF file \"{}\" does not exists or it is a folder.".format(fpath))
             pass
-
+        # Read CNF file and parse it
         
         return {}, []
 
