@@ -16,4 +16,6 @@ if __name__ == '__main__':
     else:
         logging.basicConfig(level=logging.WARN)
 
-    sat = SATSolver(args.files[0]) # "/path/to/input_file.cnf"
+    sat = SATSolver()
+    sat.setup_solver(args.files[0])
+
