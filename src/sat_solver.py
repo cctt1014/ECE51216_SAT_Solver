@@ -24,8 +24,9 @@ class SATSolver():
         self.cnf = [] # A list of arrays representing input CNF data
         self.clause_status = [] # current clause status
         self.unassigned_var_list = []
-        self.assign_stack = [] # A stack keeping var assignments
+        self.decision_stack = [] # A stack keeping var assignments
         self.implications = [] # A list records all forced decisions at one node
+        self.was_backtracked = []
 
     
     def setup_solver(self, fpath):
@@ -39,33 +40,46 @@ class SATSolver():
         # Read CNF file and parse it
         self.cnf, self.n_vars, self.n_clauses = input_parser(fpath)
 
-        logging.info("Number of variables: {}\n Number of clauses: {}".format(self.n_vars, self.n_clauses))
+        logging.info("Number of variables: {}, Number of clauses: {}".format(self.n_vars, self.n_clauses))
         
         # Init curr sat status for each clause
-        for _ in self.cnf:
-            self.clause_status.append(Status.UNRESOLVED)
+        self.clause_status = [Status.UNRESOLVED] * self.n_clauses
 
         # Init unassigned variable list
         for i in range(1, self.n_vars+1):
             self.unassigned_var_list.append(i)
 
+        # Init backtrack record for each variable
+        self.was_backtracked = [False] * self.n_vars
+
     def dpll(self):
         """
             Run DPLL algorithm for given CNF to find the assignment
         """
-        while (len(self.unassigned_var_list) != 0):
-            # Pick a variable assignment assignment
+        while (len(self.unassigned_var_list) != 0 or len(self.implications) != 0):
+            # Pick a variable assignment via implications or unassigned var list
             if (len(self.implications) != 0):
+                imply_conflict = False
                 for a in self.implications:
                     if ((-1*a) in self.implications):
-                        logging.info("Implication leads to conflict, backtracking...")
-                        self.implications = [] # TODO It hurts efficiency, further enhancement expected
-                        self.backtrack()
-                
-                self.assign_stack.append(self.implications.pop())
+                        logging.info("Implication leads to conflict for variable {}, backtracking...".format(abs(a)))
+                        imply_conflict = True
+                        break
+                        
+                if (not imply_conflict):
+                    self.decision_stack.append(self.implications.pop())
+                else:
+                    for lit in self.implications:
+                        if abs(lit) not in self.unassigned_var_list:
+                            self.unassigned_var_list.append(abs(lit))
+                    self.implications = [] # TODO It hurts efficiency, further enhancement expected
+                    self.backtrack()
+                    continue
             else:
                 # Traverse negative assignment first by default, push negative assignment to the stack
-                self.assign_stack.append((self.pick_a_var_randomly())*(-1))
+                self.decision_stack.append((self.pick_a_var_randomly())*(-1))
+
+            logging.info("Current decision list: {}".format(self.decision_stack))
 
             # Update sat status after new assignment
             for i, status in enumerate(self.clause_status):
@@ -75,23 +89,42 @@ class SATSolver():
                         unres_lit = 0 # record one single unresolved literal, works when implication triggered
 
                         for literal in self.cnf[i]:
-                            if (literal in self.assign_stack):
+                            if (literal in self.decision_stack):
                                 self.clause_status[i] = Status.SATISFIED
                                 break
-                            elif ((-1*literal) in self.assign_stack):
+                            elif ((-1*literal) in self.decision_stack):
                                 unsat_lit_cnt += 1
                             else:
                                 unres_lit = literal
 
-                        if (unsat_lit_cnt == len(self.cnf[i])-1): # condition to trigger forced implication
-                            logging.info("current assignment {} + clause {} -> implication {}".format(self.assign_stack[-1], self.cnf[i], unres_lit))
+                        if (self.clause_status[i] != Status.SATISFIED and unsat_lit_cnt == len(self.cnf[i])-1): # condition to trigger forced implication
+                            logging.info("current assignment {} + clause {} -> implication {}".format(self.decision_stack[-1], self.cnf[i], unres_lit))
                             self.implications.append(unres_lit)
+                            if abs(unres_lit) in self.unassigned_var_list:
+                                self.unassigned_var_list.remove(abs(unres_lit))
                     case Status.SATISFIED:
                         continue
                     case _:
                         logging.error("Invalid clause status found at index[{}]: {}".format(i, status))
                         
+        logging.info("RESULT:SAT")
+        print("RESULT: SAT")
+        
+        output_str = "ASSIGNMENT:"
+        for var in range(1, self.n_vars+1):
+            var_str = "{}=".format(var)
+            if (var in self.decision_stack):
+                var_str += "1 "
+            elif ((-1*var) in self.decision_stack):
+                var_str += "0 "
+            else:
+                var_str += "1 "
+            output_str += var_str
+            
+        logging.info(output_str)
+        print(output_str)
 
+        self.is_result_correct() # Verify SAT result
 
     def pick_a_var_randomly(self):
         """
@@ -101,6 +134,8 @@ class SATSolver():
             logging.error("Run out of variables for assignment!")
 
         var = random.choice(self.unassigned_var_list)
+        
+        self.unassigned_var_list.remove(var)
 
         return var
     
@@ -109,27 +144,59 @@ class SATSolver():
             Backtracking current assignment stack to recover a parent node
         """
         # Backtrack base case
-        if (len(self.assign_stack) == 0):
+        if (len(self.decision_stack) == 0):
             logging.info("Backtrack reaches root, given CNF is UNSAT.")
-            return -1
+            logging.info("RESULT:UNSAT")
+            print("RESULT:UNSAT")
+            exit()
 
         # Pop out current literal
-        curr_lit = self.assign_stack.pop()
+        curr_lit = self.decision_stack.pop()
         logging.info("Backtracking pops out literal {}".format(curr_lit))
 
         return_val = 0
-        if (curr_lit < 0): # try another value
+        if (not self.was_backtracked[abs(curr_lit)-1]): 
+            # try another value for the same var
+            self.was_backtracked[abs(curr_lit)-1] = True
             self.implications.append(curr_lit*-1)
         else:
+            # push var back to unassigned list, further backtrack another literal
+            self.was_backtracked[abs(curr_lit)-1] = False
+            self.unassigned_var_list.append(abs(curr_lit))
             return_val = self.backtrack()
 
+        # Recover clause status back to the stage before current literal decision
         for i, status in enumerate(self.clause_status):
             if ((status == Status.SATISFIED) and (curr_lit in self.cnf[i])):
                 sat_lit_cnt = 0
                 for literal in self.cnf[i]:
-                    if (literal in self.assign_stack):
+                    if (literal in self.decision_stack):
                         sat_lit_cnt += 1
-                if (sat_lit_cnt == 0):        
+                if (sat_lit_cnt == 0):
                     self.clause_status[i] = Status.UNRESOLVED
 
         return return_val
+
+    def is_result_correct(self):
+        self.clause_status = [Status.UNRESOLVED] * self.n_clauses
+        
+        logging.info("Final decision stack: {}".format(self.decision_stack))
+        
+        for i, clause in enumerate(self.cnf):
+            for lit in clause:
+                if (lit in self.decision_stack):
+                    self.clause_status[i] = Status.SATISFIED
+                    break
+        
+        all_good = True
+        for i, status in enumerate(self.clause_status):
+            if (status != Status.SATISFIED):
+                all_good = False
+                logging.info("Clause {} is not SAT".format(self.cnf[i]))
+        
+        if (all_good):
+            logging.info("Decisions have been verified to satisfy all clauses!")
+        else:
+            logging.info("Some clauses are found to be UNSAT under given decisions...")
+                
+            

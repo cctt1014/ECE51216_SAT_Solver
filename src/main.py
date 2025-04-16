@@ -10,12 +10,13 @@ if __name__ == '__main__':
                     help='CNF file to test for satisfiability')
     args = parser.parse_args()
     if args.verbosity == 2:
-        logging.basicConfig(level=logging.DEBUG)
+        logging.basicConfig(filename='logs/SATSolver.log', filemode="w", level=logging.DEBUG)
     elif args.verbosity == 1:
-        logging.basicConfig(level=logging.INFO)
+        logging.basicConfig(filename='logs/SATSolver.log', filemode="w", level=logging.INFO)
     else:
-        logging.basicConfig(level=logging.WARN)
+        logging.basicConfig(filename='logs/SATSolver.log', filemode="w", level=logging.WARN)
 
     sat = SATSolver()
     sat.setup_solver(args.files[0])
+    sat.dpll()
 
