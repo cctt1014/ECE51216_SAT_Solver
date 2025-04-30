@@ -97,7 +97,7 @@ def solve_sat(filename):
     solution = dpll(clauses, [])
     if solution is None:
         print("UNSAT")
-        return True
+        return 0
     else:
         print("SAT:", solution)
         # Convert the list of assigned literals into a dictionary for clarity.
@@ -110,10 +110,10 @@ def solve_sat(filename):
         solution_is_valid = validate_sat_solution(clauses, solution)
         if solution_is_valid:
             logging.info("The solution is valid.")
-            return True
+            return 1
         else:
-            logging.info("The solution is invalid.")
-            return False
+            logging.error("The solution is invalid.")
+            return -1
 
 
 # Example usage:

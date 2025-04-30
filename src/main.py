@@ -29,16 +29,18 @@ def solve_sat_dataset(foldername):
         if filename.endswith(".cnf"):
             filepath = os.path.join(foldername, filename)
             logging.info(f"Solving {filepath}")
-            if not solve_sat(filepath):
+            if solve_sat(filepath) == -1:
                 all_pass = False
                 logging.error(f"Failed to solve {filepath}")
+            elif solve_sat(filepath) != 0 and filename.beginswith("uuf"):
+                all_pass = False
+                logging.error(f"Failed to solve UNSAT problem {filepath}")
     
     if all_pass:
         logging.info("All SAT problems in the folder were solved successfully.")
     else:
         logging.error("Some SAT problems in the folder could not be solved.")
-        
-        
+
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
@@ -47,11 +49,11 @@ if __name__ == '__main__':
                     help='CNF file to test for satisfiability')
     args = parser.parse_args()
     if args.verbosity == 2:
-        logging.basicConfig(filename='logs/SATSolver.log', filemode="w", level=logging.DEBUG)
+        logging.basicConfig(filename=f'logs/{os.path.basename(args.files[0])}.log', filemode="w", level=logging.DEBUG)
     elif args.verbosity == 1:
-        logging.basicConfig(filename='logs/SATSolver.log', filemode="w", level=logging.INFO)
+        logging.basicConfig(filename=f'logs/{os.path.basename(args.files[0])}.log', filemode="w", level=logging.INFO)
     else:
-        logging.basicConfig(filename='logs/SATSolver.log', filemode="w", level=logging.WARN)
+        logging.basicConfig(filename=f'logs/{os.path.basename(args.files[0])}.log', filemode="w", level=logging.WARN)
 
     if not (os.path.isfile(args.files[0]) or os.path.isdir(args.files[0])):
         logging.error("Input file/folder name \"{}\" does not exists.".format(args.files[0]))
