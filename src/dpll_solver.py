@@ -1,53 +1,6 @@
-def input_parser(filename):
-    """
-    This function takes the file path of a DIMACS CNF file (.cnf format) and parses it,
-    returning a tuple: (clauses, number of variables, number of clauses)
-
-    DIMACS format details:
-      - Comment lines: start with "c" (or "%") and are ignored.
-      - Problem line: starts with "p", e.g., "p cnf 3 4" where the third and fourth tokens denote
-        the number of variables and clauses.
-      - Clause lines: consist of integer literals ending with 0; e.g., "1 -2 0" represents a clause.
-    """
-    num_variables = 0
-    num_clauses = 0
-    clauses = []
-    current_clause = []  # temporary list for accumulating literals for the current clause
-
-    with open(filename, 'r') as f:
-        for line in f:
-            line = line.strip()
-            if not line:
-                continue
-            if line.startswith('c') or line.startswith('%'):
-                continue
-            if line.startswith('p'):
-                parts = line.split()
-                if len(parts) >= 4:
-                    try:
-                        num_variables = int(parts[2])
-                        num_clauses = int(parts[3])
-                    except ValueError:
-                        raise ValueError("Invalid number format in problem line")
-                else:
-                    raise ValueError("Problem line is missing required information")
-                continue
-            tokens = line.split()
-            for token in tokens:
-                try:
-                    literal = int(token)
-                except ValueError:
-                    raise ValueError(f"Invalid literal encountered: {token}")
-                if literal == 0:
-                    if current_clause:
-                        clauses.append(current_clause)
-                        current_clause = []
-                else:
-                    current_clause.append(literal)
-    if current_clause:
-        clauses.append(current_clause)
-    return clauses, num_variables, num_clauses
-
+import logging
+from input_parser import input_parser
+from utils import validate_sat_solution
 
 def propagate(clauses, literal):
     """
@@ -78,6 +31,9 @@ def dpll(clauses, assignment):
     - assignment: list of literals representing current variable assignments
     Returns a complete assignment if one exists, otherwise None.
     """
+    logging.debug(f"Current assignment: {assignment}")
+    logging.debug(f"Current clauses: {clauses}")
+    
     # (1) Success check: if there is no clauses remaining, the formula is satisfied(SAT)
     if not clauses:
         return assignment
@@ -116,11 +72,13 @@ def dpll(clauses, assignment):
     
     #recursive call DPLL inside DPLL, you are calling DPLL on the smaller/ simplified formula
     # <chosen_literal = True>: Try setting the chosen literal to True
+    logging.debug(f"Trying literal {chosen_literal} as True")
     result = dpll(propagate(clauses, chosen_literal), assignment + [chosen_literal])
     if result is not None:
         return result
     
     # [Backtracking] <chosen_literal = False>: if result = None is returned, backtrack to the other branch, try setting the chosen literal to False.
+    logging.debug(f"Backtracking on literal {chosen_literal} as False")
     result = dpll(propagate(clauses, -chosen_literal), assignment + [-chosen_literal])
     return result
 
@@ -139,6 +97,7 @@ def solve_sat(filename):
     solution = dpll(clauses, [])
     if solution is None:
         print("UNSAT")
+        return True
     else:
         print("SAT:", solution)
         # Convert the list of assigned literals into a dictionary for clarity.
@@ -148,6 +107,13 @@ def solve_sat(filename):
         #print(assignment_dict)
         #print("Assignment:", solution)
         #print("Number of Assigned Variables:", len(solution))
+        solution_is_valid = validate_sat_solution(clauses, solution)
+        if solution_is_valid:
+            logging.info("The solution is valid.")
+            return True
+        else:
+            logging.info("The solution is invalid.")
+            return False
 
 
 # Example usage:
