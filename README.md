@@ -20,3 +20,14 @@ python3 src/main.py "data/RTI_k3_n100_m429/RTI_k3_n100_m429_0.cnf"
 python3 src/main.py "data/sw100-8-lp0-c5/SW100-8-0/sw100-1.cnf"
 python3 src/main.py "data/toy.cnf"
 ```
+
+```shell
+-solver_option=1
+```
+
+```shell
+python3 src/main.py "data/uf20-91/uf20-01.cnf" -solver_option=1 -vv
+python3 src/main.py "data/RTI_k3_n100_m429/RTI_k3_n100_m429_0.cnf" -solver_option=1 -vv
+python3 src/main.py "data/sw100-8-lp0-c5/SW100-8-0/sw100-1.cnf" -solver_option=1 -vv
+python3 src/main.py "data/toy.cnf" -solver_option=1 -vv
+```

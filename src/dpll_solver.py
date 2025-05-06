@@ -83,7 +83,7 @@ def dpll(clauses, assignment):
     return result
 
 
-def solve_sat(filename):
+def solve_sat_dpll(filename):
     """
     Combines the input parser and the DPLL solver.
     Reads the CNF from the DIMACS file, runs the DPLL algorithm,
@@ -123,4 +123,4 @@ if __name__ == "__main__":
     filename = "C:\\Users\\hokie\\OneDrive - purdue.edu\\2025 Spring\\ECE 51216\\Project\\UUF50.218.1000\\uuf50-05.cnf"
     #filename = "C:\\Users\\hokie\\OneDrive - purdue.edu\\2025 Spring\\ECE 51216\\Project\\UF250.1065.100\\uf250-01.cnf"
     #filename = "C:\\Users\\hokie\\OneDrive - purdue.edu\\2025 Spring\\ECE 51216\\Project\\UUF250.1065.100\\uuf250-01.cnf"
-    solve_sat(filename)
+    solve_sat_dpll(filename)
