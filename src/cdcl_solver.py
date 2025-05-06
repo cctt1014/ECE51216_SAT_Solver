@@ -3,6 +3,7 @@ from collections import deque
 from input_parser import input_parser
 from utils import validate_sat_solution
 
+# DEBUGGING IN PROGRESS FOR THIS FILE
 
 class CDCLSATSolver:
     def __init__(self, clauses, num_vars):
