@@ -37,5 +37,12 @@ python3 src/main.py "data/toy.cnf" -solver_option=1 -vv
 ```
 
 ```shell
-python3 src/main.py "data/uf20-91" -solver_option=2 -vv
+python3 src/main.py "data/UF100.430.100" -solver_option=2 -v
+python3 src/main.py "data/UUF100.430.100" -solver_option=2 -v
+python3 src/main.py "data/UF50.218.1000" -solver_option=0 -v
+python3 src/main.py "data/UUF50.218.1000" -solver_option=0 -v
+python3 src/main.py "data/UUF75.325.100" -solver_option=0 -v
+data/UF50.218.1000
+data/UUF75.325.100
+python3 src/main.py "data/sw100-8-lp0-c5/SW100-8-0" -solver_option=2 -vv
 ```

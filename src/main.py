@@ -5,8 +5,7 @@ import time
 import psutil  # Add this import for memory usage tracking
 import csv  # Add this import for CSV writing
 from dpll_solver import solve_sat_dpll
-from cdcl_solver import solve_sat_cdcl
-from dpll_watched_1 import solve_sat_wl
+from dpll_watched import solve_sat_wl
 
 def solve_sat(filename, option=0):
     process = psutil.Process(os.getpid())  # Get the current process
@@ -17,9 +16,6 @@ def solve_sat(filename, option=0):
         logging.info("Using DPLL solver.")
         result = solve_sat_dpll(filename)
     elif option == 1:
-        logging.info("Using CDCL solver.")
-        result = solve_sat_cdcl(filename)
-    elif option == 2:
         logging.info("Using DPLL with watched literals solver.")
         result = solve_sat_wl(filename)
     else:
@@ -37,13 +33,14 @@ def solve_sat(filename, option=0):
 
     return result, runtime, memory_used
 
-def solve_sat_dataset(foldername, option=0):
+def solve_sat_dataset(foldername, option=0, max_files=None):
     """
     Solves all SAT problems in a given folder and saves runtime and memory usage data into a CSV file.
     
     Args:
         foldername (str): Path to the folder containing CNF files.
         option (int): Solver option (0 for DPLL, 1 for CDCL, 2 for DPLL with watched literals).
+        max_files (int, optional): Maximum number of files to process. If None, process all files.
         
     Returns:
         None
@@ -76,6 +73,10 @@ def solve_sat_dataset(foldername, option=0):
         # Iterate through all files in the folder
         for filename in os.listdir(foldername):
             if filename.endswith(".cnf"):
+                if max_files is not None and file_count >= max_files:
+                    logging.info(f"Reached the maximum number of files to process: {max_files}")
+                    break
+
                 filepath = os.path.join(foldername, filename)
                 logging.info(f"Solving {filepath}")
                 result, runtime, memory = solve_sat(filepath, option)
@@ -120,6 +121,8 @@ if __name__ == '__main__':
                     help='CNF file to test for satisfiability')
     parser.add_argument('-solver_option', type=int, default=2,
                     help='0 for DPLL, 1 for CDCL, 2 for DPLL with watched literals')
+    parser.add_argument('-max_files', type=int, default=None,
+                    help='Maximum number of files to process in a dataset')
     args = parser.parse_args()
     if args.verbosity == 2:
         logging.basicConfig(filename=f'logs/{os.path.basename(args.files[0])}.log', filemode="w", level=logging.DEBUG)
@@ -133,6 +136,6 @@ if __name__ == '__main__':
         exit(1)
     
     if os.path.isdir(args.files[0]):
-        solve_sat_dataset(args.files[0], args.solver_option)
+        solve_sat_dataset(args.files[0], args.solver_option, args.max_files)
     else:
-        sat, _, _ = solve_sat(args.files[0], args.solver_option) # "/path/to/input_file.cnf"
+        sat, _, _ = solve_sat(args.files[0], args.solver_option)
