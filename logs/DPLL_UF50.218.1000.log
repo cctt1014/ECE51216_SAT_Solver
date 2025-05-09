@@ -1,0 +1,5005 @@
+INFO:root:Solving data/UF50.218.1000/uf50-01.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0235 seconds
+INFO:root:Memory used: 684.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0100.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0378 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0101.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0413 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-01000.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0947 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-010.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0167 seconds
+INFO:root:Memory used: 324.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0102.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0171 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0103.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0049 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0104.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1485 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0105.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0278 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0106.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0933 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0107.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1629 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0109.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0809 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0108.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0249 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-011.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0319 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0110.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0243 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0111.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1567 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0112.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0890 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0113.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0104 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0114.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0366 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0115.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0055 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0116.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0199 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0117.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0038 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0118.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1328 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0119.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0085 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-012.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0581 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0120.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0656 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0121.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0057 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0122.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0832 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0123.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0058 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0124.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1232 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0125.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0641 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0126.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0913 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0127.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0083 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0128.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0359 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0129.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0440 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-013.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0365 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0130.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0199 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0131.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0119 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0132.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0160 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0133.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0866 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0134.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0665 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0135.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0137 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0136.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0041 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0137.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0420 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0138.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0054 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0139.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0101 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-014.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0073 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0140.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0035 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0141.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0080 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0142.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0472 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0143.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.2304 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0144.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0072 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0145.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0399 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0146.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0299 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0147.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1274 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0148.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0085 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0149.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0051 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-015.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0244 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0150.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0075 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0151.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0189 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0152.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1764 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0153.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0646 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0154.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0482 seconds
+INFO:root:Memory used: 108.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0155.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0616 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0156.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1425 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0157.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0035 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0158.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0340 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0159.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0211 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-016.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0181 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0160.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0237 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0161.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.2423 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0162.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0289 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0163.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0073 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0164.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1158 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0165.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0649 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0166.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0390 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0167.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0229 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0168.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0968 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0169.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0054 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-017.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0250 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0170.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0157 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0171.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0859 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0172.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0717 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0173.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0498 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0174.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0219 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0175.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1407 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0176.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0733 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0177.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1175 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0178.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0031 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0179.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1041 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-018.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0426 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0180.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0247 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0181.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0784 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0182.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0531 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0183.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0104 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0184.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0228 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0185.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0054 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0186.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0268 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0187.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0490 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0188.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0105 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0189.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0269 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-019.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0137 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0190.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0032 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0191.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0538 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0192.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0416 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0193.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0382 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0194.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0317 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0195.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0102 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0196.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0044 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0197.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0508 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0198.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0038 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0199.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0157 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-02.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0855 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-020.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0572 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0200.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0055 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0201.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1569 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0202.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0420 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0203.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0499 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0204.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1597 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0205.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0043 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0206.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0092 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0207.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0078 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0208.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1602 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0209.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0984 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-021.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0039 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0210.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0251 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0211.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1256 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0212.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0522 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0213.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0427 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0214.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0041 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0215.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1410 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0216.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0359 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0217.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0179 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0218.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0143 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0219.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0087 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-022.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0710 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0220.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0762 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0221.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0727 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0222.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0055 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0223.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0211 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0224.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0139 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0225.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0492 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0226.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1169 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0227.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0546 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0228.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0676 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0229.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0623 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-023.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0096 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0230.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0613 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0231.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0209 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0232.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1567 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0233.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0064 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0234.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0081 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0235.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0162 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0236.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0043 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0237.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0104 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0238.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0048 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0239.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0051 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-024.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0237 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0241.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1621 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0240.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0946 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0243.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0660 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0242.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0036 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0244.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0029 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0245.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0230 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0246.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0084 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0247.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0132 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0248.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0737 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-025.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1471 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0249.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1832 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0250.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0039 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0251.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0033 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0252.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0883 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0253.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0144 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0254.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0483 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0255.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0488 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0256.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0051 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0257.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0036 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0258.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0278 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0259.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0592 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-026.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1182 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0260.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0752 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0261.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0168 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0262.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1471 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0263.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1361 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0264.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0043 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0265.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0081 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0266.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0560 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0267.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0611 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0268.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0098 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0269.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0176 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-027.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1326 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0270.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0228 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0271.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0282 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0272.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0754 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0273.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0401 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0274.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1013 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0275.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0602 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0276.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0401 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0277.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0814 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0278.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0125 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0279.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0035 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-028.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1113 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0280.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0629 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0281.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0632 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0282.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0168 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0283.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0347 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0284.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0660 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0285.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0172 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0287.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1543 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0286.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0670 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0288.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0102 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0289.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0149 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-029.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0188 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0290.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0211 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0291.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0166 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0292.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0226 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0293.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0264 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0294.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0747 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0295.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0765 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0296.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1285 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0297.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0378 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0298.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0336 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0299.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0926 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-03.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0033 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-030.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0747 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0300.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0197 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0301.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0253 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0303.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0231 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0302.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0548 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0304.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0096 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0305.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0794 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0306.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0214 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0307.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0207 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0308.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0488 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0309.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0678 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-031.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0094 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0310.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0245 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0311.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0690 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0312.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0054 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0313.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0550 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0314.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0040 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0315.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0178 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0316.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0234 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0317.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0298 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0318.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0178 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0319.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0926 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-032.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0141 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0320.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0036 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0321.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1465 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0322.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0590 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0323.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0320 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0324.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0035 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0325.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0235 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0326.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0074 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0327.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1756 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0328.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1203 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0329.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0391 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-033.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0143 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0330.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0153 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0331.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0163 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0332.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0589 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0333.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0212 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0334.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0282 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0335.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0406 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0336.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1230 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0337.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1050 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0338.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1326 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0339.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1756 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-034.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0200 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0340.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0151 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0341.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0396 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0342.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0036 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0343.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0681 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0344.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0276 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0345.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0900 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0346.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1233 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0347.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0689 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0348.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0517 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0349.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1576 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-035.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0143 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0350.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0625 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0351.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0208 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0352.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0307 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0353.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0774 seconds
+INFO:root:Memory used: 52.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0354.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0069 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0355.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0585 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0356.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0399 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0357.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0330 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0358.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1323 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0359.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0041 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-036.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0035 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0360.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0103 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0361.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0031 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0362.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0161 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0363.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1104 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0364.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0555 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0366.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0033 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0365.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1003 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0367.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1612 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0368.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0092 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0369.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0233 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-037.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0771 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0370.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1503 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0371.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0401 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0372.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0239 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0373.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0053 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0374.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0277 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0375.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0653 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0376.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0032 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0377.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0841 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0378.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0364 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0379.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0153 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-038.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0495 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0380.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0272 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0381.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0583 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0382.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0541 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0383.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0687 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0384.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1574 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0385.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0046 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0386.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0117 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0387.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0297 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0388.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0444 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0389.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0992 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-039.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0250 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0390.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0858 seconds
+INFO:root:Memory used: 12.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0391.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1297 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0392.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0283 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0393.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0416 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0394.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0130 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0395.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1282 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0396.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0356 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0397.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0288 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0398.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0037 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0399.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0055 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-04.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0659 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-040.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0787 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0400.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0660 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0401.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0805 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0402.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0115 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0403.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0912 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0404.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0156 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0405.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0150 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0406.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0235 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0407.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0029 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0408.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0377 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0409.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0186 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-041.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0948 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0410.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0335 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0411.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0171 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0412.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0957 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0413.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0210 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0414.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0264 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0415.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0773 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0417.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0281 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0418.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0191 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0416.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0196 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0419.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1249 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-042.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0148 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0421.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0044 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0422.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0187 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0423.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0475 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0420.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0667 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0424.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0151 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0425.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0581 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0427.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0122 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0426.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0897 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0428.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0030 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0429.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0430 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-043.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1061 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0430.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1121 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0431.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0031 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0432.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0044 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0433.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0585 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0434.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0355 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0435.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0103 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0436.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0889 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0437.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0031 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0438.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0430 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0439.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0040 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-044.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0697 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0440.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0185 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0441.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0056 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0442.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0837 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0443.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0869 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0444.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0033 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0445.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0650 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0446.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0127 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0447.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0663 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0448.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1742 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0449.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0986 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-045.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0496 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0450.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0533 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0451.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1002 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0452.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0531 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0453.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1289 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0454.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0328 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0455.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1025 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0456.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0148 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0457.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0049 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0458.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0455 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0459.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0070 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-046.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0239 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0460.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0052 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0461.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0640 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0462.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1046 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0463.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0060 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0464.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0757 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0465.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1055 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0466.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0671 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0467.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1177 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0468.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0178 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0469.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0616 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-047.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0177 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0470.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0691 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0471.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1620 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0472.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0307 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0473.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0610 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0474.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0416 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0475.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0039 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0476.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0283 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0477.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0723 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0478.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0536 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0479.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0535 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-048.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0788 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0480.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0068 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0481.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0053 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0482.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0229 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0483.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0206 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0484.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0611 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0485.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0426 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0486.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0535 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0487.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0039 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0488.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0480 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0489.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0652 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-049.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1094 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0490.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0557 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0491.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0506 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0492.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0251 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0493.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0500 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0494.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0264 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0495.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0344 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0496.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0222 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0497.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0100 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0498.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0201 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0499.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0427 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-05.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0057 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-050.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0320 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0500.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0152 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0501.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0492 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0502.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0446 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0504.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0045 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0503.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1613 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0506.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0140 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0505.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0058 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0507.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0388 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0508.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0075 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0509.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0105 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-051.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0238 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0510.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1023 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0511.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0118 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0512.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1594 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0513.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0258 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0514.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0200 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0515.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1479 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0516.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0088 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0517.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0447 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0518.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0341 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0519.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0265 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0520.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1486 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-052.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0498 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0521.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0578 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0522.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0865 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0523.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0560 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0524.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0706 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0526.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0049 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0525.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0961 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0527.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0183 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0528.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0309 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0529.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0033 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-053.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0391 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0530.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0164 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0534.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1163 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0531.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0846 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0533.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0503 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0532.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0255 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0536.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0230 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0538.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0347 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0535.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0088 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0537.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0367 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0539.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0259 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-054.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0468 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0540.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0309 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0541.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0736 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0542.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0130 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0544.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0072 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0545.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0552 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0543.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0066 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0547.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0155 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0546.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0110 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0548.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0088 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0549.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0127 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-055.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1040 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0550.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0882 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0551.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0558 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0552.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0145 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0553.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1235 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0554.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1961 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0555.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0442 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0558.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1399 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0556.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1669 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0559.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0042 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-056.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0447 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0557.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1033 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0560.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0626 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0561.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0465 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0562.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1017 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0563.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0091 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0564.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0806 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0565.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0433 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0566.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0621 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0567.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0294 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0568.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0194 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0569.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0449 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-057.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.2444 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0570.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0123 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0571.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0223 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0572.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1204 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0573.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0049 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0574.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0429 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0575.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1038 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0576.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0169 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0577.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0596 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0578.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0616 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0579.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0674 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-058.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0098 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0580.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0344 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0581.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0272 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0582.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0070 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0583.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0553 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0585.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0662 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0584.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0170 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0587.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0340 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0586.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0624 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0588.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0052 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0589.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0073 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-059.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0040 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0590.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0851 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0591.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0387 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0592.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0920 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0593.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0086 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0594.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0243 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0595.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0838 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0596.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0046 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0597.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0219 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0598.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0139 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0599.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0060 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-06.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0062 seconds
+INFO:root:Memory used: 8.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-060.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0564 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0600.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1628 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0601.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1056 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0602.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0875 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0603.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0103 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0604.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0324 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0605.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0044 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0606.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0373 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0607.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0214 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0608.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0343 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0609.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0350 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-061.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0406 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0610.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0700 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0611.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0172 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0612.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1211 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0613.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0034 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0614.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0037 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0615.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0573 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0616.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0349 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0617.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0032 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0618.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0653 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0619.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0247 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-062.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0449 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0620.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0087 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0621.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0568 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0622.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0065 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0623.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1712 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0626.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0984 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0624.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0869 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0627.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0088 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0625.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0174 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0628.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0039 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0629.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0265 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0630.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0263 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-063.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0199 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0631.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0045 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0632.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1599 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0633.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.2943 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0634.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0424 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0635.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0042 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0636.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0137 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0637.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0059 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0638.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0760 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0639.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0223 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-064.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0277 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0640.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0182 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0641.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0133 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0642.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1413 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0643.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0680 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0644.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0106 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0645.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0759 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0646.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0407 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0647.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0467 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0648.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0683 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0649.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0112 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-065.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0158 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0650.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1725 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0651.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0078 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0652.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0453 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0653.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0262 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0654.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0106 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0655.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0188 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0656.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1047 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0657.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0056 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0658.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0262 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-066.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0029 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0659.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0450 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0660.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0780 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0661.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0032 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0663.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0142 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0662.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0136 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0664.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0505 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0665.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1048 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0666.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0652 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0668.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0060 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0670.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0062 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0669.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0869 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0667.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0743 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-067.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0233 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0671.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0380 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0672.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0508 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0673.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0250 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0674.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0299 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0675.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0276 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0676.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1186 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0677.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0078 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0678.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0101 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-068.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0049 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0679.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1095 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0680.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0141 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0681.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0999 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0682.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0169 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0683.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1606 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0684.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0158 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0685.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0258 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0686.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0721 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0687.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0316 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0688.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0145 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0689.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0182 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-069.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0348 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0690.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0853 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0691.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0494 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0692.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0338 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0693.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0432 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0694.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0072 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0695.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0347 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0696.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0335 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0697.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0062 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0698.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1528 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0699.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0298 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-07.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0087 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-070.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0074 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0700.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0864 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0702.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0287 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0703.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0308 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0704.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0282 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0701.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0490 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0705.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0393 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0706.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0687 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0707.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0430 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0708.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0422 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0709.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0083 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-071.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0597 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0710.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0586 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0711.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0178 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0712.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1272 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0713.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0063 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0714.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0034 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0715.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0613 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0716.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0064 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0717.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0333 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0718.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1634 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0719.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0268 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-072.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1302 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0720.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0418 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0721.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1444 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0722.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0150 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0723.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0482 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0724.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0491 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0725.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1173 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0726.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0787 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0727.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0737 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0728.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0300 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0729.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1609 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-073.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0809 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0730.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0300 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0732.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0480 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0731.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0151 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0733.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1030 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0734.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0041 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0735.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0502 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0736.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0353 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0737.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0036 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0739.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0092 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0738.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0685 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-074.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0800 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0740.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0094 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0741.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0320 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0742.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0261 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0744.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0813 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0743.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0519 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0745.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0982 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0746.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0119 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0747.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0040 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0748.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0209 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0749.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0195 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-075.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0907 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0750.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0906 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0751.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0538 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0752.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0708 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0753.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0088 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0754.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1402 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0755.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0158 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0756.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0497 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0757.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0154 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0758.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0386 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0759.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1120 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0760.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0375 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-076.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0151 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0761.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0354 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0762.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0352 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0764.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0305 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0763.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0369 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0765.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0604 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0766.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0567 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0767.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0375 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0768.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0182 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0769.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0030 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-077.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0459 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0771.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.2170 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0773.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0494 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0770.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0075 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0772.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0353 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0774.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0097 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0775.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0432 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0776.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0757 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0777.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0116 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0778.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0330 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-078.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0558 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0779.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0031 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0780.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0371 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0781.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0587 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0782.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0040 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0783.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0711 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0784.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1181 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0785.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0032 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0786.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0195 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0787.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0077 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0788.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1166 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0789.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1441 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-079.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0100 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0790.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0111 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0791.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0241 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0792.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0801 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0793.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0371 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0794.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1035 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0795.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0331 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0796.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0298 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0797.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1536 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0798.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0046 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0799.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0383 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-080.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0196 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0800.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0148 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-08.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0409 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0801.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0806 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0802.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0418 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0803.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1488 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0804.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1129 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0805.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0055 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0806.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0954 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0807.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0146 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0808.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0306 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0809.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1038 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-081.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0112 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0810.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1003 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0811.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0396 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0812.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0438 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0813.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0429 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0814.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0227 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0815.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0133 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0816.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0105 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0817.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0094 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0818.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0069 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0819.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0142 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-082.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0139 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0820.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0630 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0821.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0300 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0822.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0170 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0823.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1213 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0824.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0249 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0825.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0155 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0826.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0865 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0827.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1888 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0828.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0389 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0829.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0165 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-083.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0926 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0830.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0304 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0831.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0155 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0832.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.2255 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0833.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0626 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0834.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0483 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0835.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0951 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0836.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1076 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0837.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0244 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0838.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1129 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0839.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1547 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-084.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0382 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0840.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0794 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0841.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0154 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0842.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1879 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0844.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0043 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0843.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0210 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0845.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0160 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0846.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0663 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0847.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0206 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0848.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0091 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0849.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0660 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0850.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0491 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0852.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1298 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0851.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0241 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0853.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0725 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0857.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0951 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-085.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0222 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0854.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.3355 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0855.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1269 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0856.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0513 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0858.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0235 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0859.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0352 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-086.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0247 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0860.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0880 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0861.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0050 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0862.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0171 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0863.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0725 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0864.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0302 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0866.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0052 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0868.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0593 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0865.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0877 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0867.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0306 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0869.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0375 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-087.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0202 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0870.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0686 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0871.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0142 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0872.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0723 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0873.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0657 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0874.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0165 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0875.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0327 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0876.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0137 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0877.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1120 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0878.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0626 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0879.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0136 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-088.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0541 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0880.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1467 seconds
+INFO:root:Memory used: 4.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0883.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0255 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0881.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0214 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0882.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0368 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0884.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0125 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0885.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0959 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0887.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0376 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0886.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0038 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0888.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0034 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0889.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0948 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-089.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0317 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0890.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0378 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0891.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0059 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0892.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0350 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0893.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0494 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0894.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0135 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0895.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0901 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0896.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0116 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0897.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0861 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0898.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0032 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-09.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0788 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-090.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0061 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0899.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0351 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0900.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0533 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0901.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0128 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0902.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0051 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0903.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0693 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0904.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0040 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0905.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0779 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0906.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0217 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0907.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0352 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0908.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0053 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0909.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0480 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-091.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0272 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0910.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0081 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0911.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0689 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0912.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0795 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0914.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0377 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0913.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0205 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0915.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0132 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0916.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0287 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0917.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0644 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0918.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0806 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0919.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0941 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-092.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0318 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0920.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.3396 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0921.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0029 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0922.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0135 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0923.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0132 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0924.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0174 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0925.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0135 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0926.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0061 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0927.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0086 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0928.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0613 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0929.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0557 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-093.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0838 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0930.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0557 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0932.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0045 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0931.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0242 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0933.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0121 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0934.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0412 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0935.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0281 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0936.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0480 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0937.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0084 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0938.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0267 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0939.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0211 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0940.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0475 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-094.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1218 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0941.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1050 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0942.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0466 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0943.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0751 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0944.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0907 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0945.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0574 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0946.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1381 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0947.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1546 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0948.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1776 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0949.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0038 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-095.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0448 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0950.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0691 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0951.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0156 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0952.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0238 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0953.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0698 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0954.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0171 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0955.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0617 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0956.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0390 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0957.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0341 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0958.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0530 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0959.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0038 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-096.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0146 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0960.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0320 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0961.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0722 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0962.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0622 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0964.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1164 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0963.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0729 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0966.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0240 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0967.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0517 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0965.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0513 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0968.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0077 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-097.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0334 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0969.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0081 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0970.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0072 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0971.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0036 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0972.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0446 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0973.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1104 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0974.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0396 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0975.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0059 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0976.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0198 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0977.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0098 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0978.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0298 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0979.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0474 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-098.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0134 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0980.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0255 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0981.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0710 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0982.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0843 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0983.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0148 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0984.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0277 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0985.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0716 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0986.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0243 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0987.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1415 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0988.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0298 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0989.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0124 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-099.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0861 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0990.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0052 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0991.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0486 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0992.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0106 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0996.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0083 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0993.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1180 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0995.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0957 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0994.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0170 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0997.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0242 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0998.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0702 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF50.218.1000/uf50-0999.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1448 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Average Runtime: 0.0492 seconds
+INFO:root:Average Memory Usage: 1.1920 KB
+INFO:root:Peak Runtime: 0.3396 seconds
+INFO:root:Peak Memory Usage: 684.0000 KB
+INFO:root:All SAT problems in the folder were solved successfully.

@@ -1,0 +1,705 @@
+INFO:root:Solving data/UF75.325.100/uf75-01.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0151 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-010.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0030 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-0100.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0084 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-012.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0023 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-013.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0022 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-011.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0087 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-014.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0077 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-015.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0060 seconds
+INFO:root:Memory used: 388.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-016.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0030 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-017.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0079 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-018.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0063 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-019.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0136 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-02.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0137 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-020.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0117 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-021.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0140 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-022.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0021 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-023.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0067 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-024.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0054 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-025.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0017 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-026.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0061 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-027.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0101 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-028.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0031 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-029.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0049 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-03.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0088 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-031.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0129 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-032.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0131 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-030.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0154 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-033.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0023 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-034.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0087 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-035.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0081 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-036.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0037 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-037.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0232 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-038.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0116 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-039.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0067 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-04.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0041 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-040.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0084 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-041.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0237 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-042.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0097 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-043.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0020 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-044.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0231 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-045.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0090 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-046.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0088 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-047.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0101 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-048.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0142 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-049.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0081 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-05.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0038 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-050.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0039 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-051.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0159 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-052.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0076 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-053.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0066 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-054.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0065 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-055.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0212 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-056.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0031 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-057.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0142 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-058.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0110 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-059.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0143 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-06.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0092 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-060.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0169 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-061.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0085 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-062.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0060 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-063.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0019 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-064.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0039 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-066.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0224 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-065.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0085 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-067.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0185 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-068.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0066 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-069.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0203 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-07.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0028 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-070.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0047 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-071.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0078 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-072.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0174 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-073.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0032 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-074.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0035 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-075.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0080 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-076.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0145 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-077.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0025 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-078.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0099 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-079.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0044 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-08.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0139 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-080.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0023 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-081.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0129 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-082.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0047 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-083.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0057 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-084.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0071 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-085.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0072 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-086.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0059 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-087.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0033 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-088.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0056 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-089.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0093 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-09.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0018 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-090.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0118 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-091.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0065 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-092.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0020 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-093.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0059 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-094.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0060 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-095.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0040 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-096.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0139 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-097.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0039 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-098.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0137 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/UF75.325.100/uf75-099.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 75
+INFO:root:Number of Clauses: 325
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0086 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Average Runtime: 0.0086 seconds
+INFO:root:Average Memory Usage: 3.8800 KB
+INFO:root:Peak Runtime: 0.0237 seconds
+INFO:root:Peak Memory Usage: 388.0000 KB
+INFO:root:All SAT problems in the folder were solved successfully.

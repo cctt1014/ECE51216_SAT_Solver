@@ -1,0 +1,705 @@
+INFO:root:Solving data/SW100-8-2/sw100-1.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0249 seconds
+INFO:root:Memory used: 1380.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-10.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0159 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-100.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0153 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-11.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0168 seconds
+INFO:root:Memory used: 264.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-12.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0133 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-13.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0201 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-14.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0364 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-15.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0202 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-16.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0116 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-17.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0133 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-18.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0104 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-19.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0146 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-2.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0192 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-20.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0111 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-21.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0189 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-22.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0527 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-23.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0164 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-24.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0130 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-25.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0133 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-26.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0115 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-27.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0861 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-28.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0160 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-29.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0153 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-3.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0170 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-30.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0119 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-31.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0119 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-32.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0225 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-33.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0151 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-34.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0238 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-35.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0158 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-36.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0235 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-37.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0152 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-38.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0109 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-39.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0140 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-4.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0138 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-40.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0127 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-41.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0154 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-42.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0114 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-43.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0113 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-44.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0116 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-45.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0322 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-46.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0117 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-47.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0113 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-48.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0135 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-49.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.4473 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-5.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0176 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-50.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0127 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-51.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0112 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-52.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0108 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-53.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0536 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-54.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0163 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-55.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0143 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-56.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0359 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-57.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0454 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-58.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0244 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-59.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0198 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-6.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0335 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-60.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0121 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-61.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0523 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-62.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0110 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-63.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0111 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-64.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0111 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-65.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0217 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-66.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0110 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-67.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0153 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-68.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0268 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-69.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0295 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-7.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0116 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-70.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0185 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-71.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0132 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-72.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0179 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-73.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0185 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-74.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0177 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-75.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0219 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-76.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0113 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-77.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0139 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-78.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0233 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-79.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0124 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-8.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0136 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-80.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0136 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-81.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0157 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-82.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0222 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-83.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0187 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-84.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0147 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-85.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0163 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-86.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0122 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-87.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0184 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-88.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0113 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-89.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0152 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-9.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0109 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-90.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0113 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-91.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0140 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-92.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0200 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-93.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0173 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-94.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0170 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-95.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0150 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-96.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0207 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-97.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0124 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-98.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0419 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-99.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 500
+INFO:root:Number of Clauses: 3100
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0136 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Average Runtime: 0.0230 seconds
+INFO:root:Average Memory Usage: 16.4400 KB
+INFO:root:Peak Runtime: 0.4473 seconds
+INFO:root:Peak Memory Usage: 1380.0000 KB
+INFO:root:All SAT problems in the folder were solved successfully.

@@ -1,0 +1,31 @@
+INFO:root:Solving data/SW100-8-4/sw100-1.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.4246 seconds
+INFO:root:Memory used: 6272.0000 KB
+INFO:root:Solving data/SW100-8-4/sw100-10.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.3009 seconds
+INFO:root:Memory used: 1944.0000 KB
+INFO:root:Solving data/SW100-8-4/sw100-12.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.8039 seconds
+INFO:root:Memory used: 700.0000 KB
+INFO:root:Solving data/SW100-8-4/sw100-11.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 3.3436 seconds
+INFO:root:Memory used: 2472.0000 KB
+INFO:root:Solving data/SW100-8-4/sw100-100.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 1.0317 seconds
+INFO:root:Memory used: 1100.0000 KB
+INFO:root:Reached the maximum number of files to process: 5
+INFO:root:Average Runtime: 1.1809 seconds
+INFO:root:Average Memory Usage: 2497.6000 KB
+INFO:root:Peak Runtime: 3.3436 seconds
+INFO:root:Peak Memory Usage: 6272.0000 KB
+INFO:root:All SAT problems in the folder were solved successfully.

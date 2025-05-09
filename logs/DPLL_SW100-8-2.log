@@ -1,0 +1,56 @@
+INFO:root:Solving data/SW100-8-2/sw100-1.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.3963 seconds
+INFO:root:Memory used: 10904.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-10.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.3333 seconds
+INFO:root:Memory used: 552.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-100.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.7430 seconds
+INFO:root:Memory used: 204.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-11.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.3175 seconds
+INFO:root:Memory used: 2428.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-12.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.3478 seconds
+INFO:root:Memory used: 2120.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-13.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.3523 seconds
+INFO:root:Memory used: -620.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-14.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.3093 seconds
+INFO:root:Memory used: -868.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-15.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.3444 seconds
+INFO:root:Memory used: -160.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-16.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.5441 seconds
+INFO:root:Memory used: 648.0000 KB
+INFO:root:Solving data/SW100-8-2/sw100-17.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.3149 seconds
+INFO:root:Memory used: 1924.0000 KB
+INFO:root:Reached the maximum number of files to process: 10
+INFO:root:Average Runtime: 0.4003 seconds
+INFO:root:Average Memory Usage: 1713.2000 KB
+INFO:root:Peak Runtime: 0.7430 seconds
+INFO:root:Peak Memory Usage: 10904.0000 KB
+INFO:root:All SAT problems in the folder were solved successfully.
