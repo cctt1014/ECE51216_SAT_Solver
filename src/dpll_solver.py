@@ -91,29 +91,32 @@ def solve_sat_dpll(filename):
     """
     clauses, num_variables, num_clauses = input_parser(filename)
     #print("Parsed Clauses:", clauses)
-    print("Number of Variables:", num_variables)
-    print("Number of Clauses:", num_clauses)
+    logging.info(f"Number of Variables: {num_variables}")
+    logging.info(f"Number of Clauses: {num_clauses}")
     
     solution = dpll(clauses, [])
     if solution is None:
-        print("UNSAT")
+        print("RESULT:UNSAT")
         return 0
     else:
-        print("SAT:", solution)
+        print("RESULT:SAT")
+        
         # Convert the list of assigned literals into a dictionary for clarity.
-        assignment_dict = {}
+        print("ASSIGNMENT:", end="")
         for literal in solution:
-            assignment_dict[abs(literal)] = (literal > 0)
-        #print(assignment_dict)
-        #print("Assignment:", solution)
-        #print("Number of Assigned Variables:", len(solution))
-        solution_is_valid = validate_sat_solution(clauses, solution)
-        if solution_is_valid:
-            logging.info("The solution is valid.")
-            return 1
-        else:
-            logging.error("The solution is invalid.")
-            return -1
+            val = 1 if literal > 0 else 0
+            print(f"{abs(literal)}={val}", end=" ")
+        print("")
+        return 1
+    
+        # Uncomment the following lines to validate the solution
+        # solution_is_valid = validate_sat_solution(clauses, solution)
+        # if solution_is_valid:
+        #     logging.info("The solution is valid.")
+        #     return 1
+        # else:
+        #     logging.error("The solution is invalid.")
+        #     return -1
 
 
 # Example usage:

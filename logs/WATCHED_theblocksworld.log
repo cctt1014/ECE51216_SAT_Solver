@@ -1,0 +1,47 @@
+INFO:root:Solving data/theblocksworld/bw_large.a.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 459
+INFO:root:Number of Clauses: 4675
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0289 seconds
+INFO:root:Memory used: 1908.0000 KB
+INFO:root:Solving data/theblocksworld/bw_large.c.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 3016
+INFO:root:Number of Clauses: 50457
+INFO:root:The solution is valid.
+INFO:root:Runtime: 44.7312 seconds
+INFO:root:Memory used: 6368.0000 KB
+INFO:root:Solving data/theblocksworld/bw_large.b.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 1087
+INFO:root:Number of Clauses: 13772
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.5604 seconds
+INFO:root:Memory used: 524.0000 KB
+INFO:root:Solving data/theblocksworld/anomaly.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 48
+INFO:root:Number of Clauses: 261
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0014 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/theblocksworld/huge.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 459
+INFO:root:Number of Clauses: 7054
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0351 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Solving data/theblocksworld/medium.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 116
+INFO:root:Number of Clauses: 953
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0032 seconds
+INFO:root:Memory used: 0.0000 KB
+INFO:root:Average Runtime: 7.5600 seconds
+INFO:root:Average Memory Usage: 1466.6667 KB
+INFO:root:Peak Runtime: 44.7312 seconds
+INFO:root:Peak Memory Usage: 6368.0000 KB
+INFO:root:All SAT problems in the folder were solved successfully.

@@ -176,20 +176,22 @@ def solve_sat_wl(filename):
     if not is_sat:
         return 0
     else:
-        assignment_list = []
+        # assignment_list = []
         print("ASSIGNMENT: ", end="")
         for v in range(1, nv+1):
             val = 1 if solver.assignment.get(v, False) else 0
             print(f"{v}={val}", end=" ")
-            assignment_list.append(v if val else -v)
+            # assignment_list.append(v if val else -v)
         print("")
-        
-        if validate_sat_solution(clauses, assignment_list):
-            logging.info("The solution is valid.")
-            return 1
-        else:
-            logging.error("The solution is invalid.")
-            return -1
+        return 1
+    
+        # Uncomment the following lines to validate the solution
+        # if validate_sat_solution(clauses, assignment_list):
+        #     logging.info("The solution is valid.")
+        #     return 1
+        # else:
+        #     logging.error("The solution is invalid.")
+        #     return -1
 
 # Example usage:
 if __name__ == "__main__":

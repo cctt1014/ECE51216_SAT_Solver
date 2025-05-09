@@ -1,0 +1,25 @@
+INFO:root:Solving data/theblocksworld/bw_large.a.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 17.2854 seconds
+INFO:root:Memory used: 9532.0000 KB
+INFO:root:Solving data/theblocksworld/anomaly.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0062 seconds
+INFO:root:Memory used: -988.0000 KB
+INFO:root:Solving data/theblocksworld/huge.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 18.1190 seconds
+INFO:root:Memory used: 1628.0000 KB
+INFO:root:Solving data/theblocksworld/medium.cnf
+INFO:root:Using DPLL solver.
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.0630 seconds
+INFO:root:Memory used: -2016.0000 KB
+INFO:root:Average Runtime: 8.8684 seconds
+INFO:root:Average Memory Usage: 2039.0000 KB
+INFO:root:Peak Runtime: 18.1190 seconds
+INFO:root:Peak Memory Usage: 9532.0000 KB
+INFO:root:All SAT problems in the folder were solved successfully.

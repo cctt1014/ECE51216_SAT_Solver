@@ -1,0 +1,5 @@
+Filename,Result,Runtime (s),Memory Usage (KB)
+bw_large.a.cnf,1,17.28535747528076,9532.0
+anomaly.cnf,1,0.006165504455566406,-988.0
+huge.cnf,1,18.119048595428467,1628.0
+medium.cnf,1,0.06295490264892578,-2016.0

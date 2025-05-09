@@ -1,0 +1,33 @@
+INFO:root:Solving data/logistics/logistics.a.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 828
+INFO:root:Number of Clauses: 6718
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.1640 seconds
+INFO:root:Memory used: 3228.0000 KB
+INFO:root:Solving data/logistics/logistics.b.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 843
+INFO:root:Number of Clauses: 7301
+INFO:root:The solution is valid.
+INFO:root:Runtime: 1.3642 seconds
+INFO:root:Memory used: 1056.0000 KB
+INFO:root:Solving data/logistics/logistics.c.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 1141
+INFO:root:Number of Clauses: 10719
+INFO:root:The solution is valid.
+INFO:root:Runtime: 2.2497 seconds
+INFO:root:Memory used: 1116.0000 KB
+INFO:root:Solving data/logistics/logistics.d.cnf
+INFO:root:Using DPLL with watched literals solver.
+INFO:root:Number of Variables: 4713
+INFO:root:Number of Clauses: 21991
+INFO:root:The solution is valid.
+INFO:root:Runtime: 0.5761 seconds
+INFO:root:Memory used: 5136.0000 KB
+INFO:root:Average Runtime: 1.0885 seconds
+INFO:root:Average Memory Usage: 2634.0000 KB
+INFO:root:Peak Runtime: 2.2497 seconds
+INFO:root:Peak Memory Usage: 5136.0000 KB
+INFO:root:All SAT problems in the folder were solved successfully.
