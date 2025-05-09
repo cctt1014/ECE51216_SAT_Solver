@@ -3,8 +3,12 @@ Due May 9
 
 
 ## File structure
-1. main.py: Main function for the program
-2. sat_solver.py: SAT solver class contains configurations, data and algorithms for SAT solver
+1. `main.py`: Main entry point for the program.
+2. `src/`: Contains the source code for the SAT solver.
+   - `dpll_solver.py`: Implementation of the DPLL SAT solver.
+   - `dpll_watched.py`: Implementation of the DPLL solver with watched literals.
+3. `data/`: Contains datasets for testing the SAT solver.
+4. `logs/`: Contains log files generated during SAT solver runs.
 
 ## Datasets
 1. uf20-91: Uniform Random-3-SAT, 20 variables, 91 clauses - 1000 instances, all satisfiable [PASS]
@@ -26,8 +30,12 @@ python3 src/main.py "data/toy.cnf"
 ```
 
 ```shell
-python3 src/main.py "data/uf20-91/uf20-01.cnf" -solver_option=1 -vv
+python3 src/main.py "data/uf20-91/uf20-01.cnf" -solver_option=2 -vv
 python3 src/main.py "data/RTI_k3_n100_m429/RTI_k3_n100_m429_0.cnf" -solver_option=1 -vv
 python3 src/main.py "data/sw100-8-lp0-c5/SW100-8-0/sw100-1.cnf" -solver_option=1 -vv
 python3 src/main.py "data/toy.cnf" -solver_option=1 -vv
+```
+
+```shell
+python3 src/main.py "data/uf20-91" -solver_option=2 -vv
 ```
