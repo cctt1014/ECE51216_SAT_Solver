@@ -119,8 +119,8 @@ if __name__ == '__main__':
     parser.add_argument("-v", "--verbosity", help="increase output verbosity", action="count")
     parser.add_argument('files', metavar='f', type=str, nargs=1,
                     help='CNF file to test for satisfiability')
-    parser.add_argument('-solver_option', type=int, default=2,
-                    help='0 for DPLL, 1 for CDCL, 2 for DPLL with watched literals')
+    parser.add_argument('-solver_option', type=int, default=1,
+                    help='0 for DPLL, 1 for enhanced solver with watched literals and VSIDS')
     parser.add_argument('-max_files', type=int, default=None,
                     help='Maximum number of files to process in a dataset')
     args = parser.parse_args()
@@ -138,4 +138,4 @@ if __name__ == '__main__':
     if os.path.isdir(args.files[0]):
         solve_sat_dataset(args.files[0], args.solver_option, args.max_files)
     else:
-        sat, _, _ = solve_sat(args.files[0], args.solver_option)
+        solve_sat(args.files[0], args.solver_option)
