@@ -112,7 +112,7 @@ class SATSolver:
         # clear any outstanding queue
         self.queue.clear()
 
-    def pick_branch_var(self):
+    def pick_branch_vsids(self):
         """Return the unassigned var with highest VSIDS activity, or None."""
         best = None
         best_score = -1.0
@@ -150,7 +150,7 @@ class SATSolver:
         if self.all_clauses_satisfied():
             return True
 
-        var = self.pick_branch_var()
+        var = self.pick_branch_vsids()
         if var is None:
             return True
 
