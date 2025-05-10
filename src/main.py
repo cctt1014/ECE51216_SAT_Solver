@@ -7,11 +7,22 @@ import csv  # Add this import for CSV writing
 from dpll_solver import solve_sat_dpll
 from dpll_watched import solve_sat_wl
 
+
 def solve_sat(filename, option=0):
+    """
+        Solves a SAT problem using the specified solver.
+        Args:
+            filename (str): Path to the CNF file.
+            option (int): Solver option (0 for DPLL, 1 for CDCL).
+        Returns:
+            int: 0 if UNSAT, 1 if SAT, -1 if an error occurred.
+    """
+    # Setup timing and memory tracking
     process = psutil.Process(os.getpid())  # Get the current process
     start_time = time.time()  # Start the timer
     start_memory = process.memory_info().rss  # Get initial memory usage
 
+    # Check which solver to use
     if option == 0:
         logging.info("Using DPLL solver.")
         result = solve_sat_dpll(filename)
@@ -22,6 +33,7 @@ def solve_sat(filename, option=0):
         logging.error("Invalid solver option. Use 0 for DPLL or 1 for CDCL.")
         return -1
 
+    # Check the result and record it
     end_time = time.time()  # End the timer
     end_memory = process.memory_info().rss  # Get final memory usage
 
@@ -115,6 +127,7 @@ def solve_sat_dataset(foldername, option=0, max_files=None):
             logging.error("Some SAT problems in the folder could not be solved.")
 
 if __name__ == '__main__':
+    # Set up argument parsing
     parser = argparse.ArgumentParser()
     parser.add_argument("-v", "--verbosity", help="increase output verbosity", action="count")
     parser.add_argument('files', metavar='f', type=str, nargs=1,
@@ -124,6 +137,8 @@ if __name__ == '__main__':
     parser.add_argument('-max_files', type=int, default=None,
                     help='Maximum number of files to process in a dataset')
     args = parser.parse_args()
+    
+    # Set up logging
     if args.verbosity == 2:
         logging.basicConfig(filename=f'logs/{os.path.basename(args.files[0])}.log', filemode="w", level=logging.DEBUG)
     elif args.verbosity == 1:
@@ -131,10 +146,12 @@ if __name__ == '__main__':
     else:
         logging.basicConfig(filename=f'logs/{os.path.basename(args.files[0])}.log', filemode="w", level=logging.WARN)
 
+    # Check if the input file/folder exists
     if not (os.path.isfile(args.files[0]) or os.path.isdir(args.files[0])):
         logging.error("Input file/folder name \"{}\" does not exists.".format(args.files[0]))
         exit(1)
-    
+
+    # Check if the input file is a CNF file or a dataset folder
     if os.path.isdir(args.files[0]):
         solve_sat_dataset(args.files[0], args.solver_option, args.max_files)
     else:
