@@ -2,6 +2,15 @@
 ## Overview
 This repository contains a SAT solver implemented in Python, designed to solve the SAT problem using the DPLL algorithm. The solver can handle CNF (Conjunctive Normal Form) formulas in DIMACS format and includes heuristics such as two watched literals and clause learning. 
 
+## File structure
+1. `src/`: Contains the source code for the SAT solver.
+   - `dpll_solver.py`: Implementation of the DPLL SAT solver.
+   - `dpll_watched.py`: Implementation of the DPLL solver with watched literals.
+   - `main.py`: Main entry point for the program.
+   - `utils.py`: Utility functions for parsing CNF files and other helper functions.
+   - `input_parser.py`: Parses the input CNF files and converts them into a suitable format for the solver.
+2. `data/`: Contains datasets for testing the SAT solver.
+3. `logs/`: Contains log files generated during SAT solver runs in our tests for result analysis.
 
 ## Quick Start
 ### Run our best SAT solver with the following command format:
@@ -34,15 +43,7 @@ Moreover, our SAT solver can take in an entire folder. This command runs the bas
 python3 src/main.py "data/UF50.218.1000" -solver_option 0 -max_files 10
 ```
 
-## File structure
-1. `src/`: Contains the source code for the SAT solver.
-   - `dpll_solver.py`: Implementation of the DPLL SAT solver.
-   - `dpll_watched.py`: Implementation of the DPLL solver with watched literals.
-   - `main.py`: Main entry point for the program.
-   - `utils.py`: Utility functions for parsing CNF files and other helper functions.
-   - `input_parser.py`: Parses the input CNF files and converts them into a suitable format for the solver.
-2. `data/`: Contains datasets for testing the SAT solver.
-3. `logs/`: Contains log files generated during SAT solver runs in our tests for result analysis.
+
 
 ## Datasets
 1. Uniform Random-3-SAT
